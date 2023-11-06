@@ -38,6 +38,10 @@ body {
     font-size: 20px;
     padding: 0 40px;
     text-decoration: none;
+    transition: 0.3s;
+}
+.nav a:hover {
+    color: rgb(46, 224, 224);
 }
 .nav li {
     list-style-type: none;

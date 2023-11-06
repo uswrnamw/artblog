@@ -1,5 +1,8 @@
+@font-face {
+    font-family: Futura Light;
+    src: url(Futura Light.otf);
+}
 body {
-    font-family: Trebuchet MS;
     background-color: #b3b3b3;
 }
 .main {
